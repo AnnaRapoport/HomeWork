@@ -91,7 +91,7 @@ public class Locators {
             WebElement el42 = wd.findElement(By.xpath("//button[text()='Login']"));
 
             WebElement el43 = wd.findElement(By.xpath("//button[text()='Registration']"));
-
+            WebElement el44 = wd.findElement(By.xpath("//*[contains(@name,'re')]"));
 
 
 
